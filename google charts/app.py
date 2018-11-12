@@ -1,4 +1,6 @@
 from flask import *
+from kloudtrader.equities.data import *
+import random
 
 plotting_server = Flask(__name__)
 
