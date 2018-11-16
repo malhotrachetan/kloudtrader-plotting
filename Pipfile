@@ -5,6 +5,11 @@ name = "pypi"
 
 [packages]
 flask = "*"
+flask-restplus = "*"
+flask-cors = "*"
+primesieve = {version = "*", editable = true}
+pyecharts = "*"
+pyecharts-snapshot = "*"
 
 [dev-packages]
 
